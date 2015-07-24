@@ -1,0 +1,4 @@
+#button { position: absolute; top: 50%; width: 99%; text-align: center }
+#button div { position: relative; top: -77px }
+/*#button img { position: relative; cursor: pointer; border: 2px solid #000 }
+#button img:hover { left: 5px; top: 5px }*/
